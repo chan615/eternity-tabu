@@ -50,37 +50,37 @@ __Example:__
 
 10. Corner Generator:
     
-    * CCORNER_FIRST
+    CCORNER_FIRST
     
-    * CCORNER_NEXT
+    CCORNER_NEXT
     
-    * CCORNER_OPPOSITE
+    CCORNER_OPPOSITE
 
 11. Edge Generator:
 
-    * EEDGE_FIRST
+    EEDGE_FIRST
     
-    * EEDGE_NEXT
+    EEDGE_NEXT
     
-    * EEDGE_NEXT_ANTI
+    EEDGE_NEXT_ANTI
     
-    * EEDGE_POS_OPPOSITE
+    EEDGE_POS_OPPOSITE
 
 12. Inner Generator
 
-    * IINNER_NEXT
+    IINNER_NEXT
     
-    * IINNER_OPPOSITE
+    IINNER_OPPOSITE
     
-    * IINNER_OPPOSITE_AUX
+    IINNER_OPPOSITE_AUX
     
-    * IINNER_RAND
+    IINNER_RAND
 
 13. Random Initial Solution:
 
-    * STATIC_START
+    STATIC_START
     
-    * RANDOM_START
+    RANDOM_START
 
 14. Randomization Seed: INTEGER
 
