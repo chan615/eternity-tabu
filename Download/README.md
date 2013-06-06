@@ -1,10 +1,3 @@
-eternity-tabu
-=============
-
-Eternity II solver based on a Tabu Search approach.
-
-During our Optmization Methods and Algotihms course, professor has given us an assignement: to write an Eternity II solver based on a Tabu Search approach. Here it is our desperate attempt. 
-
 ### DOWNLOAD
 
 You can download the Linux 32 bit version from the Download folder
